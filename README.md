@@ -1,2 +1,4 @@
 # project-demo
-This is my first Git repository <br> Author-khushi Bansal
+This is my first Git repository 
+<br><br>
+ Author-khushi Bansal(student)
